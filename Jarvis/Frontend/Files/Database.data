@@ -1,0 +1,312 @@
+Harz : You jarvis.
+Harz : You jarvis.
+HarzAI : No.
+Harz : Hello jarvis what what is up?
+Harz : Hello jarvis what what is up?
+HarzAI : Not Jarvis—HarzAI.  
+All quiet here.
+Harz : Okay what are you doing right now?
+Harz : Okay what are you doing right now?
+HarzAI : Waiting for your next message.
+Harz : What is the time right now?
+Harz : What is the time right now?
+HarzAI : 17:30:16
+Harz : Okay, bye!
+Harz : Okay, bye!
+HarzAI : Bye.
+Harz : Hello jarvis.
+Harz : Hello jarvis.
+HarzAI : Still HarzAI.
+Harz : I want to create a real world project in python in html what project can i create?
+Harz : I want to create a real world project in python in html what project can i create?
+HarzAI : Build a personal expense tracker: Python Flask backend stores income/expense records in SQLite, HTML frontend shows dashboard with charts (Chart.js), monthly summaries, CSV export, and responsive design.
+Harz : Can you give me a little road map of how to build it?
+Harz : Can you give me a little road map of how to build it?
+HarzAI : 1. Setup  
+   `python -m venv venv && venv\Scripts\activate`  
+   `pip install flask flask-sqlalchemy flask-cors`
+2. Data model (models.py)  
+   Transaction(id, amount, category, note, date)
+3. Flask API (app.py)  
+   /transactions  GET, POST  
+   /summary/<month>  GET
+4. HTML page  
+   index.html → fetch("/transactions") → render table + Chart.js bar for monthly totals.
+5. Add forms & filters (category, date range) with vanilla JS.
+6. Deploy  
+   `flask run` locally → push to GitHub → host frontend on Netlify, backend on Render (free tier).
+Harz : How can i top in my exam?
+Harz : How can i top in my exam?
+HarzAI : 1. Map the exact syllabus and weightage; list every topic.  
+2. Make a 4-week calendar: 1 day per micro-topic, last 3 days only full-length mocks.  
+3. Active recall: after each study block, close book and write or speak answers; mark gaps, re-study immediately.  
+4. Daily 25-min slots for previous-year questions; note recurring patterns and memorize their model answers.  
+5. One 50-min mock every weekend under timed conditions; review errors the same day.  
+6. Sleep 7 h, no phone in room; 5-min mindfulness before bed to lock in memory.
+Harz : The day after tomorrow is my sanskrit ut and i have not prepared for it even a little bit help me prepare for it so i can secure full marks.
+Harz : The day after tomorrow is my sanskrit ut and i have not prepared for it even a little bit help me prepare for it so i can secure full marks.
+HarzAI : 1. Get the exact blueprint: chapters, grammar topics (sandhi, vibhakti, karak, samas), and question types (objective, passage, translation, essay).  
+2. 6-hour crash plan:  
+   - Hour 1: Read summary sheets for each chapter (use YouTube “Sanskrit in 1 shot” videos at 1.5×).  
+   - Hour 2-3: Memorize high-weight grammar rules—sandhi table, prathamā & dvitīyā vibhakti endings.  
+   - Hour 4: Solve last 3 years’ papers with answer key; mark repeating questions and learn their answers verbatim.  
+   - Hour 5: Write and speak answers—cover 5 long questions and 10 MCQs; check against key immediately.  
+   - Hour 6: Revise errors only; create one-page cheat sheet (sandhi rules, karak table, 10 shlok meanings).  
+3. Tomorrow: two 45-min mocks (morning & night), review only mistakes; sleep 6 h minimum.
+Harz : Bhai jarvis you next day.
+Harz : Bhai jarvis you next day.
+HarzAI : Still HarzAI.
+Harz : Buy icu next day.
+Harz : Buy icu next day.
+HarzAI : I can’t buy anything for you.
+Harz : By horse unit.
+Harz : By horse unit.
+HarzAI : Bye.
+Harz : Hello.
+Harz : Hello.
+HarzAI : Hi.
+Harz : Hello jarvis.
+Harz : Hello jarvis.
+HarzAI : Still HarzAI.
+Harz : Now and i will call you jarvis.
+Harz : Now and i will call you jarvis.
+HarzAI : Fine—call me Jarvis.
+Harz : Chat with me.
+Harz : Chat with me.
+HarzAI : Sure. What do you want to talk about?
+Harz : Whatistheaqiofhisar?
+HarzAI : I’m sorry, I don’t have any information on that topic.
+Harz : What is quantum physics?
+Harz : What is quantum physics?
+HarzAI : Quantum physics is the study of matter and energy at atomic and sub-atomic scales where classical rules break down. Key points:
+- Particles can behave like waves (wave–particle duality).
+- Energy is exchanged in discrete packets called quanta.
+- The act of measurement alters a system (Heisenberg’s uncertainty principle).
+- Particles can exist in a superposition of multiple states until measured.
+- Entangled particles share a single joint state no matter how far apart they are.
+These principles power lasers, transistors, MRI machines, and quantum computers.
+Harz : Jo har se aayi.
+Harz : Jo har se aayi.
+HarzAI : “Jo har se aayi” isn’t a standard phrase; if you mean “that which came from Har,” it’s too vague without context.
+Harz : What is up in yo?
+Harz : What is up in yo?
+HarzAI : Nothing—just waiting for your next line.
+Harz : Generator generator video of a person dancing.
+Harz : Generator generator video of a person dancing.
+HarzAI : I can’t create or send videos.
+Harz : Hello.
+Harz : Hello.
+HarzAI : Hey.
+Harz : Bicycle.
+Harz : Bicycle.
+HarzAI : Two wheels, pedals, chain, frame—human-powered ride.
+Harz : Bewafa person riding a bicycle.
+Harz : Bewafa person riding a bicycle.
+HarzAI : Heartbreak on two wheels—still just a rider and a bike.
+Harz : Hello.
+Harz : Hello.
+HarzAI : Hi.
+Harz : Whatistheweather?
+HarzAI : I don’t have any real-time weather data to show you.
+Harz : what is the weather of hisar
+HarzAI : No search results found.
+Harz : what is nano banana
+HarzAI : No search results found.
+Harz : what is nano banana
+HarzAI : I'm sorry, I couldn't find any results for 'what is nano banana' on Google right now. It might be due to a temporary connection issue or search regionality.
+Harz : what is the weather of hisar
+HarzAI : I'm sorry, I couldn't find any results for 'what is the weather of hisar' on Google right now. It might be due to a temporary connection issue or search regionality.
+Harz : what is nano banana
+HarzAI : I’m sorry, I don’t have any information on that topic.
+Harz : what is the capital of romania
+HarzAI : The capital of Romania is Bucharest.
+Harz : what is the aqi of hisar
+HarzAI : I’m sorry, I don’t have any information on that topic.
+Harz : what is the weather of hisar
+HarzAI : I’m sorry, I don’t have any information on that topic.
+Harz : what is the temerature of hisar
+HarzAI : I’m sorry, I don’t have any information on that topic.
+Harz : what is the capital of india
+HarzAI : The capital of India is New Delhi.
+Harz : what is the proce of tata motor ipo
+HarzAI : I’m sorry, I don’t have any information on that topic.
+Harz : what is the weather of hisar
+HarzAI : I’m sorry, I don’t have any information on that topic.
+Harz : What is the score of england vs australia fourth test
+HarzAI : Live Cricket Matches:
+Desert Vipers vs MI Emirates, Qualifier 1 - Status: Desert Vipers won by 45 runs
+Northern Knights vs Wellington, 6th Match - Status: Wellington won by 13 runs
+Otago vs Central Districts, 5th Match - Status: Otago won by 41 runs
+Harz : what is the weather of hisar
+HarzAI : I don't have real-time access to current weather conditions. However, I can suggest some ways for you to find out the current weather in Hisar:
+1. Check online weather websites: You can check websites like AccuWeather, Weather.com, or the Indian Meteorological Department's website for the current weather conditions in Hisar.
+2. Use a mobile app: You can download mobile apps like Dark Sky, Weather Underground, or Mausam to get the current weather conditions in Hisar.
+3. Check social media: You can check social media platforms like Twitter or Facebook for updates on the current weather conditions in Hisar.
+Please note that the weather conditions can change rapidly, so it's always a good idea to check the current weather forecast before planning your day.
+Harz : what is the weather
+HarzAI : I’m sorry, I don’t have any real-time weather data to show you.
+Harz : what is the price of tata motors stock
+HarzAI : I’m sorry, I don’t have any real-time market data for Tata Motors stock.
+Harz : What is the score
+HarzAI : Live Cricket Match Scores:
+📍 Desert Vipers vs MI Emirates, Qualifier 1
+   Status: Desert Vipers won by 45 runs
+   Score: [{'r': 233, 'w': 1, 'o': 20, 'inning': 'Desert Vipers Inning 1'}, {'r': 188, 'w': 7, 'o': 20, 'inning': 'MI Emirates Inning 1'}]
+📍 Northern Knights vs Wellington, 6th Match
+   Status: Wellington won by 13 runs
+   Score: [{'r': 194, 'w': 3, 'o': 20, 'inning': 'Wellington Inning 1'}, {'r': 181, 'w': 10, 'o': 19.4, 'inning': 'Northern Knights Inning 1'}]
+📍 Otago vs Central Districts, 5th Match
+   Status: Otago won by 41 runs
+   Score: [{'r': 193, 'w': 7, 'o': 20, 'inning': 'otago Inning 1'}, {'r': 152, 'w': 8, 'o': 20, 'inning': 'Otago,Central Districts Inning 1'}]
+📍 Sunrisers Eastern Cape vs Paarl Royals, 7th Match
+   Status: Sunrisers Eastern Cape opt to bat
+   Score: []
+📍 Durban Super Giants vs Joburg Super Kings, 6th Match
+   Status: Joburg Super Kings won by 6 wkts
+   Score: [{'r': 86, 'w': 10, 'o': 17.1, 'inning': 'durban super giants Inning 1'}, {'r': 88, 'w': 4, 'o': 12.2, 'inning': 'Durban Super Giants,Joburg Super Kings Inning 1'}]
+Harz : what is the weather of hisar
+HarzAI : Sorry, I couldn't find weather data for 'Hisar'.
+Harz : try again
+HarzAI : I'm sorry, I don't have any information on that topic.
+Harz : What is the price of tata motors stock
+HarzAI : Stock: TTM
+Price: $25.1400
+Change: 0.0000 (0.0000%)
+Harz : What is the price of tata motors stock in INR
+HarzAI : Could not find stock data for symbol 'TATA MOTORS'.
+Harz : what is trending
+HarzAI : Error fetching trending topics: The request failed: Google returned a response with code 404
+Harz : Stock price of AAPL
+HarzAI : Could not find stock data for symbol 'OF'.
+Harz : Stock price AAP
+HarzAI : 📈 Stock: AAP
+• Price: $39.64
+• Change: -0.2300 (-0.5769%)
+Harz : What's trending right now?
+HarzAI : Error fetching trending topics: The request failed: Google returned a response with code 404
+Harz : What's happening in the world?
+HarzAI : 📰 Latest news headlines for 'latest':
+1. Abdullah bin Zayed receives phone call from US Secretary of State - The Tribune
+2. Mumbai Buzz: Top Headlines & Latest News from the City That Never Sleeps - Mid Day
+3. Abdullah bin Zayed receives phone call from US Secretary of State - Lokmat Times
+4. Broncos See Major Super Bowl Boost in Latest PFF Simulation - Sports Illustrated
+5. Authorities investigating theft of $400K worth of lobster - Portland Press Herald
+Harz : What's the weather in Hisar
+HarzAI : Sorry, I couldn't find weather data for 'hisar'.
+Harz : What's the weather in Tokyo
+HarzAI : Sorry, I couldn't find weather data for 'tokyo'.
+Harz : Live cricket scores
+HarzAI : 🏏 Live Cricket Match Scores:
+📍 Desert Vipers vs MI Emirates, Qualifier 1
+   Status: Desert Vipers won by 45 runs
+   Score: [{'r': 233, 'w': 1, 'o': 20, 'inning': 'Desert Vipers Inning 1'}, {'r': 188, 'w': 7, 'o': 20, 'inning': 'MI Emirates Inning 1'}]
+📍 Northern Knights vs Wellington, 6th Match
+   Status: Wellington won by 13 runs
+   Score: [{'r': 194, 'w': 3, 'o': 20, 'inning': 'Wellington Inning 1'}, {'r': 181, 'w': 10, 'o': 19.4, 'inning': 'Northern Knights Inning 1'}]
+📍 Otago vs Central Districts, 5th Match
+   Status: Otago won by 41 runs
+   Score: [{'r': 193, 'w': 7, 'o': 20, 'inning': 'otago Inning 1'}, {'r': 152, 'w': 8, 'o': 20, 'inning': 'Otago,Central Districts Inning 1'}]
+📍 Sunrisers Eastern Cape vs Paarl Royals, 7th Match
+   Status: Sunrisers Eastern Cape opt to bat
+   Score: [{'r': 27, 'w': 1, 'o': 4, 'inning': 'sunrisers eastern cape Inning 1'}]
+📍 Durban Super Giants vs Joburg Super Kings, 6th Match
+   Status: Joburg Super Kings won by 6 wkts
+   Score: [{'r': 86, 'w': 10, 'o': 17.1, 'inning': 'durban super giants Inning 1'}, {'r': 88, 'w': 4, 'o': 12.2, 'inning': 'Durban Super Giants,Joburg Super Kings Inning 1'}]
+Harz : What is the weather in Hisar?
+HarzAI : Sorry, I couldn't find weather data for 'hisar'.
+Harz : weather Hisar
+HarzAI : Invalid Weather API Key. Please update your .env file.
+Harz : weather Hisar
+HarzAI : Invalid Weather API Key. Please update your .env file.
+Harz : weather Hisar
+HarzAI : 🌤️ The current weather in Hisar is Broken clouds with a temperature of 21.56°C (feels like 20.4°C) and 24% humidity.
+Harz : stock price tata motors
+HarzAI : Could not find stock data for symbol 'TATA'.
+Harz : stock price nifty
+HarzAI : Could not find stock data for symbol 'NIFTY'.
+Harz : What is the price of Tesla stock?
+HarzAI : Stock: TSLA
+Price: ₹1,444.20
+Change: ₹-0.00 (-0.00%)
+Harz : What is the price of Tesla stock?
+HarzAI : Stock: TSLA
+Price: ₹1,444.20
+Change: ₹-0.00 (-0.00%)
+Last Updated: 31 December 2025, 17:01:07
+Harz : What is trending now
+HarzAI : Trending topics are currently unavailable due to a service error.
+Harz : what is happing in the world
+HarzAI : 📰 Latest news headlines for 'latest':
+1. Is Stephen Curry playing tonight vs the Charlotte Hornets? Latest update on the Golden State Warriors star's injury report (December 30, 2025) - Times of India
+2. Is LeBron James Playing Tonight? Pistons vs Lakers Latest Injury Report (Dec 30) - Essentially Sports
+3. Prince William's massive annual salary revealed in 2025 royal report - Baltimore News
+4. Prince William's massive annual salary revealed in 2025 royal report - WJLA
+5. Tampa Bay Buccaneers - Sports Illustrated
+Harz : cricket score of ashesh series
+HarzAI : 🏏 Live Cricket Match Scores:
+📍 Desert Vipers vs MI Emirates, Qualifier 1
+   Status: Desert Vipers won by 45 runs
+   Score: [{'r': 233, 'w': 1, 'o': 20, 'inning': 'Desert Vipers Inning 1'}, {'r': 188, 'w': 7, 'o': 20, 'inning': 'MI Emirates Inning 1'}]
+📍 Northern Knights vs Wellington, 6th Match
+   Status: Wellington won by 13 runs
+   Score: [{'r': 194, 'w': 3, 'o': 20, 'inning': 'Wellington Inning 1'}, {'r': 181, 'w': 10, 'o': 19.4, 'inning': 'Northern Knights Inning 1'}]
+📍 Otago vs Central Districts, 5th Match
+   Status: Otago won by 41 runs
+   Score: [{'r': 193, 'w': 7, 'o': 20, 'inning': 'otago Inning 1'}, {'r': 152, 'w': 8, 'o': 20, 'inning': 'Otago,Central Districts Inning 1'}]
+📍 Sunrisers Eastern Cape vs Paarl Royals, 7th Match
+   Status: Sunrisers Eastern Cape opt to bat
+   Score: [{'r': 46, 'w': 2, 'o': 6, 'inning': 'sunrisers eastern cape Inning 1'}]
+📍 Durban Super Giants vs Joburg Super Kings, 6th Match
+   Status: Joburg Super Kings won by 6 wkts
+   Score: [{'r': 86, 'w': 10, 'o': 17.1, 'inning': 'durban super giants Inning 1'}, {'r': 88, 'w': 4, 'o': 12.2, 'inning': 'Durban Super Giants,Joburg Super Kings Inning 1'}]
+Harz : Cricket score between Australia and South Africa
+HarzAI : No live match found for 'between australia and south africa'. Current live matches:
+📍 Desert Vipers vs MI Emirates, Qualifier 1
+📍 Northern Knights vs Wellington, 6th Match
+📍 Otago vs Central Districts, 5th Match
+Harz : score of india women and Sri lanka women
+HarzAI : No live match found for 'india women and sri lanka women'. Current live matches:
+📍 Desert Vipers vs MI Emirates, Qualifier 1
+📍 Northern Knights vs Wellington, 6th Match
+📍 Otago vs Central Districts, 5th Match
+Harz : score of match between australia and england
+HarzAI : No match found for 'match between australia and england'.
+Recent matches: Desert Vipers vs MI Emirates, Qualifier 1, Northern Knights vs Wellington, 6th Match, Otago vs Central Districts, 5th Match
+Harz : Hi
+Harz : Hi
+HarzAI : Hello.
+Harz : Hello.
+HarzAI : Hi again.
+Harz : Generator road map for iit.
+HarzAI : Here's a general roadmap for IIT JEE preparation:
+1. **Class 11**:
+	* Complete NCERT textbooks for Physics, Chemistry, and Mathematics.
+	* Start with basic concepts, problems, and exercises.
+	* Use online resources (e.g., Khan Academy, 3D Physics, etc.) for supplementing learning.
+2. **Class 12**:
+	* Focus on advanced concepts, problems, and exercises.
+	* Practice from various textbooks (e.g., HC Verma, OP Tandon, etc.).
+	* Use online resources for practice tests, mock exams, and doubt clearing.
+3. **Mock Tests and Practice**:
+	* Take regular mock tests (e.g., monthly, bi-monthly) to assess strengths and weaknesses.
+	* Practice from various question banks (e.g., Arihant, MTG, etc.).
+	* Focus on weak areas and improve gradually.
+4. **Board Exams**:
+	* Prepare for board exams simultaneously, following your school's curriculum.
+	* Focus on scoring well in board exams, as they are a significant factor in IIT admissions.
+5. **Final Months**:
+	* Focus on last-minute revision, practicing from previous year's question papers, and mock tests.
+	* Stay calm, focused, and avoid last-minute stress.
+6. **JEE Main and Advanced**:
+	* Prepare for JEE Main, following the official syllabus and pattern.
+	* Focus on advanced topics and practice from previous year's question papers.
+	* Take mock tests and evaluate performance periodically.
+Note: This is a general roadmap, and you should adjust it according to your needs, strengths, and weaknesses.
+Harz : Tell me the weather of hisar.
+HarzAI : I'm sorry, I don't have any information on that topic.
+Harz : Search for the weather of hisar.
+HarzAI : Current weather in Hisar, Haryana, India:
+Temperature: 22°C
+Humidity: 44%
+Wind Speed: 15 km/h
+Sky Condition: Partly Cloudy
